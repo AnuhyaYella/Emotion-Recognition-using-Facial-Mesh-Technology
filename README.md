@@ -8,5 +8,3 @@ Facial Landmark Detection – Key points on the face (such as eyes, eyebrows, no
 Mesh Construction – A structured mesh is created by connecting these landmarks, forming a detailed representation of facial movements.
 
 Emotion Classification - The mesh data is processed using machine learning or deep learning models to classify emotions like happiness, sadness, anger, and surprise.
-
-Author - Anuhya
